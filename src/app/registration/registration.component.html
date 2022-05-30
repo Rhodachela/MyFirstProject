@@ -1,0 +1,13 @@
+<div class="container">
+    <h1>registeration</h1>
+    <form  class="form" [formGroup]="regisreForm">
+        <input type="text" formControlName="firstName" placeholder="firstname">
+        <input type="text" formControlName="surname" placeholder="surname">
+        <input type="text" formControlName="email" placeholder="email@gmail.com">
+        <input type="text" formControlName="password" placeholder="password">
+        <input type="phone number" formControlName="phone number" placeholder="phone number">
+        <input type="gender" formControlName="gender" placeholder="gender">
+        <button class="btn" (click)="(register)">submit</button>
+    </form>
+    <a  style="background-color: green;color: white; margin-top: .5px; border-radius: .8rem;margin:1rem;padding: .2rem;margin-left: 3rem;" routerLink="/login"> Already have an account? Click here to login!</a>
+  </div>
