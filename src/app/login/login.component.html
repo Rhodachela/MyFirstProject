@@ -2,9 +2,9 @@
   <h1>login</h1>
   <form  class="form" [formGroup]="loginForm">
       <input type="text" formControlName="username" placeholder="username">
-      <input type="text" formControlName="email" placeholder="email@gmail.com">
-      <input type="text" formControlName="password" placeholder="password">
-      <button class="btn" (click)="login()">submit</button>
+      <input type="password" formControlName="password" placeholder="password">
+      <button class="btn" (click)="Login()">submit</button><br >
+      <a  style="background-color: green;color: white;text-decoration: underline; margin-top: .1rem; border-radius: .8rem;margin:1rem;padding: .08rem;margin-left: 2rem;" routerLink="/register">New user? Click here to register!</a>
   </form>
-  <a  style="background-color: green;color: white; margin-top: .1rem; border-radius: .8rem;margin:1rem;padding: .2rem;margin-left: 6rem;" routerLink="/register">New user? Click here to register!</a>
+  
 </div>

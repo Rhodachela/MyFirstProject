@@ -1,0 +1,204 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signUpUsers": [
+    {
+      "id": 1,
+      "username": "rholyhaze",
+      "firstName": "rhoda",
+      "surname": "chelangat",
+      "email": "rhodachela@gmail.com",
+      "password": "chemosi",
+      "phoneNumber": "0768697595",
+      "gender": "female"
+    },
+    {
+      "username": "zack",
+      "firstName": "toures",
+      "surname": "johns",
+      "email": "zacktoures@gmail.com",
+      "password": "zackeaus",
+      "phoneNumber": "0768917818",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "username": "Brian",
+      "firstName": "Muchira",
+      "surname": "Muthiry",
+      "email": "bryoohmuchira@gmail.com",
+      "password": "bryooh",
+      "phoneNumber": "0770350017",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "username": "erono",
+      "firstName": "Edwin",
+      "surname": "Rono",
+      "email": "edwink.ronoh@gmail.com",
+      "password": "1234567",
+      "phoneNumber": "0708002921",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "username": "victor",
+      "firstName": "victor",
+      "surname": "kipkoech",
+      "email": "kip@gmail.com",
+      "password": "kip",
+      "phoneNumber": "0712",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "username": "@lucky",
+      "firstName": "Duncan",
+      "surname": "Kiprono",
+      "email": "dankirui@gmail.com",
+      "password": "12345",
+      "phoneNumber": "0703725702",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "username": "Gideon terer",
+      "firstName": "terer",
+      "surname": "terer",
+      "email": "terer@gmail.com",
+      "password": "chemoget",
+      "phoneNumber": "079898989",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 8
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 9
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 10
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 11
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 12
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 13
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 14
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 15
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 16
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 17
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 18
+    },
+    {
+      "username": "Chelabett",
+      "firstName": "Rodah",
+      "surname": "Bett",
+      "email": "bettrodahmutura112",
+      "password": "",
+      "phoneNumber": "",
+      "gender": "",
+      "id": 19
+    }
+  ],
+  "profile": {
+    "name": "RegisterationForm"
+  }
+}

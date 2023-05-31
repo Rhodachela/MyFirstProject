@@ -1,0 +1,15 @@
+{
+    "posts": [
+      { 
+        "username": "Rholyhaze",
+        "firstName": "Rhoda", 
+        "surname": "chelangat",
+        "email":"rhodachela@gmail.com",
+        "password":"chela5284",
+        "gender":"nfemale"
+     }
+    ],
+    "signupuser": ["signUpUser"],
+    "profile": {
+       "name": "singUpUser" }
+  }
